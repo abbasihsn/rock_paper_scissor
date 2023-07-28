@@ -1,0 +1,12 @@
+./rps_env
+./rps_env/*
+./rps-cv-images
+./rps-cv-images/*
+./test
+./test/*
+./*.h5
+*.h5
+*.zip
+rps_env
+rps-cv-images/*
+test
